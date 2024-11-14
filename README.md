@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Music Player<br>🌱 I’m currently learning Python, C, C++<br>💬 Ask me about Python
+🔭 I’m currently studying!!<br>🌱 I’m currently learning Python, C, C++<br>💬 Ask me about Python
 
 
 ## 🌐 Socials:
