@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Web Developer & AI Enthusiast<br>I’m a web dev with a passion for AI. I work with Python, C, C++, JS, HTML, and CSS to build projects that challenge me and help me grow.<br><br>🛠️ Tech Stack:<br>Languages: Python, C, C++, JavaScript, HTML, CSS<br><br>Focus: Web development & AI<br><br>🏀 Fun Fact:<br>Off the code, I’m all about basketball. Always up for a good game.
+👨‍💻 Web Developer & AI Enthusiast<br>I’m a web dev with a passion for AI Automation. I work with Python, C, C++, JS, HTML, and CSS to build projects that challenge me and help me grow.<br><br>🛠️ Tech Stack:<br>Languages: Python, C, C++, JavaScript, HTML, CSS<br><br>Focus: Web development & AI<br><br>🏀 Fun Fact:<br>Off the code, I’m all about basketball. Always up for a good game.
 
 
 # 💻 Tech Stack:
