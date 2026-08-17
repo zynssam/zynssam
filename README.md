@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sam 👋</h1>
+<h1 align="center">Hi, I'm Samrudh 👋</h1>
 <h3 align="center">Full-Stack Developer | ML/Data Enthusiast — Building clean, reliable software</h3>
 
 <p align="center">
