@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | ML/Data Enthusiast — Building clean, reliable software</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/samrudhshetty31" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://YOUR-PORTFOLIO-SITE.com" target="_blank">
@@ -30,7 +30,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frontend**
 <br>
@@ -70,6 +70,7 @@
 
 ### Featured Projects
 
+<!--
 **[Project Name 1](https://github.com/zynssam/repo-name)**
 <br>
 One-line description of what it does and the impact/result (e.g. "Cut API response time by 40%").
@@ -77,6 +78,7 @@ One-line description of what it does and the impact/result (e.g. "Cut API respon
 **[Project Name 2](https://github.com/zynssam/repo-name)**
 <br>
 One-line description of what it does and the impact/result.
+-->
 
 ---
 
