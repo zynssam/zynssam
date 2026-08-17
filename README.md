@@ -68,19 +68,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zynssam&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zynssam&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynssam&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### Featured Projects
 
 **[Project Name 1](https://github.com/zynssam/repo-name)**
