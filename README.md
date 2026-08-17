@@ -16,8 +16,8 @@
 
 - 💻 I build full-stack web apps end-to-end — frontend, backend, and everything in between
 - 📊 I also work with data — ML models, data pipelines, and analysis
-- 🔭 Currently working on: *[project name]*
-- 🌱 Learning: *[technology you're picking up]*
+- 🔭 Currently working on: *[ai-email-task-extractor]*
+- 🌱 Learning: *[aws]*
 - 💼 Open to: **new opportunities** — feel free to reach out
 - 📫 Reach me via LinkedIn or my portfolio site above
 
