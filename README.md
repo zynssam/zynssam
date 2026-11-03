@@ -66,7 +66,7 @@ I am a **Backend & AI Engineer** and Computer Science student at **REVA Universi
 <div align="center">
 
 <a href="https://github.com/reshanajk006/weft" title="🏆 Hackathon winning project — WEFT · Aavishkar 2026"><img src="./assets/win-weft.svg" width="49%" alt="WEFT — Hackathon winning project (Aavishkar 2026)" title="🏆 Hackathon winning project — WEFT · Aavishkar 2026"/></a>
-<a href="https://github.com/zynssam/Nishaan" title="🏆 Hackathon winning project — Nishaan · HackFest 2026"><img src="./assets/win-nishaan.svg" width="49%" alt="Nishaan — Hackathon winning project (HackFest 2026)" title="🏆 Hackathon winning project — Nishaan · HackFest 2026"/></a>
+<a href="https://github.com/zynssam/Nishaan" title="🏆 Hackathon winning project — Nishaan · HackFest SVIT 2026"><img src="./assets/win-nishaan.svg" width="49%" alt="Nishaan — Hackathon winning project (HackFest SVIT 2026)" title="🏆 Hackathon winning project — Nishaan · HackFest SVIT 2026"/></a>
 
 </div>
 
