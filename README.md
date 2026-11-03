@@ -9,6 +9,10 @@
 
 <br/>
 
+<img src="./assets/neural-banner.svg" width="100%" alt="Neural network banner — Backend & AI Engineer"/>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=zynssam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
 <a href="https://github.com/zynssam?tab=followers"><img src="https://img.shields.io/github/followers/zynssam?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers"/></a>
 <a href="mailto:samrudhshetty31@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
@@ -17,8 +21,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
-
+<img src="./assets/header-about.svg" width="100%" alt="About Me"/>
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -41,8 +44,7 @@ I am a **Backend & AI Engineer** and Computer Science student at **REVA Universi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## 🛠️ Tech Stack
-
+<img src="./assets/header-stack.svg" width="100%" alt="Tech Stack"/>
 <div align="center">
 
 ### Languages
@@ -63,8 +65,7 @@ I am a **Backend & AI Engineer** and Computer Science student at **REVA Universi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## 🚀 Featured Projects
-
+<img src="./assets/header-projects.svg" width="100%" alt="Featured Projects"/>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -124,8 +125,7 @@ Simulates logistics data, analyses carrier on-time performance in SQLite, and vi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## 📊 GitHub Analytics
-
+<img src="./assets/header-analytics.svg" width="100%" alt="GitHub Analytics"/>
 <div align="center">
 
 <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="profile details"/>
@@ -142,8 +142,7 @@ Simulates logistics data, analyses carrier on-time performance in SQLite, and vi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## 🐍 Contribution Snake
-
+<img src="./assets/header-snake.svg" width="100%" alt="Contribution Snake"/>
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zynssam/zynssam/output/github-contribution-grid-snake-dark.svg"/>
@@ -154,8 +153,7 @@ Simulates logistics data, analyses carrier on-time performance in SQLite, and vi
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
-## 🤝 Let's Connect
-
+<img src="./assets/header-connect.svg" width="100%" alt="Let's Connect"/>
 <div align="center">
 
 <a href="https://github.com/zynssam"><img src="https://img.shields.io/badge/GitHub-zynssam-181717?style=for-the-badge&logo=github&logoColor=white"/></a>

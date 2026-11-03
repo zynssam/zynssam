@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64">
+<style>
+.ttl{font:700 26px -apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif;fill:url(#g)}
+.num{font:600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#5b7896;letter-spacing:2px}
+.ic{fill:none;stroke:#38bdf8;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+.ring{fill:none;stroke:#38bdf8;stroke-width:1.5;transform-origin:22px 28px;animation:ring 2.4s ease-out infinite}
+@keyframes ring{0%{transform:scale(.7);opacity:.8}100%{transform:scale(1.5);opacity:0}}
+.base{stroke:#1e3a5f;stroke-width:2}
+.sweep{stroke:url(#sg);stroke-width:3;stroke-linecap:round;stroke-dasharray:220 1000;animation:sweep 3.2s cubic-bezier(.6,0,.4,1) infinite}
+@keyframes sweep{0%{stroke-dashoffset:220}100%{stroke-dashoffset:-900}}
+.dot{fill:#38bdf8;animation:dp 3.2s cubic-bezier(.6,0,.4,1) infinite}
+@keyframes dp{0%{transform:translateX(0)}100%{transform:translateX(1120px)}}
+</style>
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#38bdf8"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<linearGradient id="sg" x1="0" x2="1"><stop offset="0" stop-color="#818cf8" stop-opacity="0"/><stop offset=".7" stop-color="#818cf8"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+</defs>
+<circle cx="22" cy="28" r="17" fill="#38bdf8" fill-opacity=".1" stroke="#38bdf8" stroke-opacity=".5"/>
+<circle cx="22" cy="28" r="17" class="ring"/>
+<g transform="translate(22 28)" class="ic"><circle cx="-6" cy="0" r="5"/><circle cx="6" cy="0" r="5"/><path d="M-1 0 h2"/></g>
+<text x="56" y="37" class="ttl">Let's Connect</text>
+<text x="896" y="35" class="num" text-anchor="end">06 /</text>
+<line x1="0" y1="61" x2="900" y2="61" class="base"/>
+<line x1="0" y1="61" x2="900" y2="61" class="sweep"/>
+</svg>
