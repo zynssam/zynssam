@@ -64,6 +64,16 @@ I am a **Backend & AI Engineer** and Computer Science student at **REVA Universi
 <img src="./assets/header-projects.svg" width="100%" alt="Featured Projects"/>
 <table>
 <tr>
+<td colspan="2" valign="top">
+
+### 🏆 [WEFT](https://github.com/reshanajk006/weft) &nbsp;<img src="https://img.shields.io/badge/Winner-Aavishkar%202026-F5B301?style=flat-square&logo=trophy&logoColor=white" alt="Aavishkar 2026 winner"/>
+A **deterministic service-dependency blast-radius analyzer**. It ingests Jaeger / OTLP traces, rebuilds the microservice call graph, scores service health and criticality, and **simulates failures**: blast radius, circuit-breaker behaviour, root-cause ranking and mitigation recommendations.
+
+`FastAPI` `SQLite` `NetworkX` `React` `Vite` `Docker`
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🛡️ [KAVACH](https://github.com/zynssam/KAVACH)
