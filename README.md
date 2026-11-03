@@ -68,6 +68,10 @@ I am a **Backend & AI Engineer** and Computer Science student at **REVA Universi
 <a href="https://github.com/reshanajk006/weft" title="🏆 Hackathon winning project — WEFT · Aavishkar 2026"><img src="./assets/win-weft.svg" width="49%" alt="WEFT — Hackathon winning project (Aavishkar 2026)" title="🏆 Hackathon winning project — WEFT · Aavishkar 2026"/></a>
 <a href="https://github.com/zynssam/Nishaan" title="🏆 Hackathon winning project — Nishaan · HackFest SVIT 2026"><img src="./assets/win-nishaan.svg" width="49%" alt="Nishaan — Hackathon winning project (HackFest SVIT 2026)" title="🏆 Hackathon winning project — Nishaan · HackFest SVIT 2026"/></a>
 
+<a href="https://weft-phi.vercel.app/" title="Open the WEFT live app"><img src="https://img.shields.io/badge/▶%20WEFT-Live%20App%20↗-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="WEFT live app"/></a>
+<a href="https://github.com/reshanajk006/weft" title="WEFT source code"><img src="https://img.shields.io/badge/WEFT-Source-F5B301?style=for-the-badge&logo=github&logoColor=white" alt="WEFT source"/></a>
+<a href="https://github.com/zynssam/Nishaan" title="Nishaan source code"><img src="https://img.shields.io/badge/Nishaan-Source-F5B301?style=for-the-badge&logo=github&logoColor=white" alt="Nishaan source"/></a>
+
 </div>
 
 <br/>
