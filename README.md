@@ -62,17 +62,17 @@ I am a **Backend & AI Engineer** and Computer Science student at **REVA Universi
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
 
 <img src="./assets/header-projects.svg" width="100%" alt="Featured Projects"/>
+
+<div align="center">
+
+<a href="https://github.com/reshanajk006/weft" title="🏆 Hackathon winning project — WEFT · Aavishkar 2026"><img src="./assets/win-weft.svg" width="49%" alt="WEFT — Hackathon winning project (Aavishkar 2026)" title="🏆 Hackathon winning project — WEFT · Aavishkar 2026"/></a>
+<a href="https://github.com/zynssam/Nishaan" title="🏆 Hackathon winning project — Nishaan · HackFest 2026"><img src="./assets/win-nishaan.svg" width="49%" alt="Nishaan — Hackathon winning project (HackFest 2026)" title="🏆 Hackathon winning project — Nishaan · HackFest 2026"/></a>
+
+</div>
+
+<br/>
+
 <table>
-<tr>
-<td colspan="2" valign="top">
-
-### 🏆 [WEFT](https://github.com/reshanajk006/weft) &nbsp;<img src="https://img.shields.io/badge/Winner-Aavishkar%202026-F5B301?style=flat-square&logo=trophy&logoColor=white" alt="Aavishkar 2026 winner"/>
-A **deterministic service-dependency blast-radius analyzer**. It ingests Jaeger / OTLP traces, rebuilds the microservice call graph, scores service health and criticality, and **simulates failures**: blast radius, circuit-breaker behaviour, root-cause ranking and mitigation recommendations.
-
-`FastAPI` `SQLite` `NetworkX` `React` `Vite` `Docker`
-
-</td>
-</tr>
 <tr>
 <td width="50%" valign="top">
 
@@ -84,22 +84,14 @@ A **deterministic service-dependency blast-radius analyzer**. It ingests Jaeger 
 </td>
 <td width="50%" valign="top">
 
-### 🕵️ [Nishaan](https://github.com/zynssam/Nishaan)
-AI suspect-sketch & crime-scene generator. A witness's spoken account (Hindi, Kannada or English) becomes a refinable sketch plus a 3D scene layout.
-
-`FastAPI` `React` `Vite` `Gemini` `Groq`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🧠 [Zachary](https://github.com/zynssam/Zachary)
 A cross-platform desktop assistant with **file memory** — indexes your files, understands what they're about, and finds them by voice or hotkey.
 
 `Python` · *In active development*
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🐞 [BugBash](https://github.com/zynssam/bugbash)
@@ -108,8 +100,6 @@ A self-hosted debugging-contest platform: join a round with a code, fix buggy C 
 `Node.js` `JavaScript` `C`
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📋 [Attendance Sheet Maker](https://github.com/zynssam/Attendance-Sheet-Maker)
@@ -118,7 +108,9 @@ Generates standardised multi-group `.xlsx` attendance workbooks for FACE Club ev
 `Python` `HTML` · [**Live App ↗**](https://zynssam.github.io/Attendance-Sheet-Maker/)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 📦 [Supply Chain Reliability](https://github.com/zynssam/Statistical-Modeling-of-Supply-Chain-Reliability)
 Simulates logistics data, analyses carrier on-time performance in SQLite, and visualises transit-time variance against SLA targets.
