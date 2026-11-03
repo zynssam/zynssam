@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samrudh%20Shetty&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samrudh%20Shetty&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/zynssam">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Hi+there%2C+I'm+Samrudh+%F0%9F%91%8B;Computer+Science+Student+%40+REVA+University;Building+AI-powered+tools+for+real+problems;Hackathon+builder+%7C+Open+to+collaborate" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Hi+there%2C+I'm+Samrudh+%F0%9F%91%8B;Backend+Engineer+%7C+AI+Engineer;Building+APIs%2C+LLM+systems+%26+data+pipelines;CS+Student+%40+REVA+University" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 <tr>
 <td width="60%" valign="top">
 
-I am a **Computer Science student at REVA University, Bengaluru**, who enjoys turning ideas into working software — from AI assistants and investigative tools to small utilities that save people time.
+I am a **Backend & AI Engineer** and Computer Science student at **REVA University, Bengaluru**. I design APIs, data pipelines and LLM-powered systems, from AI assistants and investigative tools to small utilities that save people time.
 
 - 🔭 &nbsp;Currently building **Zachary** — a desktop assistant with *file memory*
 - 🛡️ &nbsp;Built **KAVACH** & **Nishaan** — AI tools for police investigation
@@ -128,14 +128,15 @@ Simulates logistics data, analyses carrier on-time performance in SQLite, and vi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zynssam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynssam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="98%" alt="profile details"/>
 
-<img src="https://streak-stats.demolab.com?user=zynssam&theme=tokyonight&hide_border=true" width="70%" alt="streak"/>
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="stats"/>
+<img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" width="49%" alt="repos per language"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zynssam&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="most commit language"/>
+<img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="49%" alt="productive time"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zynssam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="trophies"/>
+<img src="https://streak-stats.demolab.com?user=zynssam&theme=github-dark-blue&hide_border=true" width="98%" alt="streak"/>
 
 </div>
 
