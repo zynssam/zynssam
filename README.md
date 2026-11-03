@@ -1,16 +1,170 @@
-## Hi there 👋
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
+<div align="center">
 
-<!--
-**zynssam/zynssam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samrudh%20Shetty&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/zynssam">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Hi+there%2C+I'm+Samrudh+%F0%9F%91%8B;Computer+Science+Student+%40+REVA+University;Building+AI-powered+tools+for+real+problems;Hackathon+builder+%7C+Open+to+collaborate" alt="Typing SVG"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=zynssam&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+<a href="https://github.com/zynssam?tab=followers"><img src="https://img.shields.io/github/followers/zynssam?label=Followers&style=for-the-badge&color=203a43&logo=github" alt="followers"/></a>
+<a href="mailto:samrudhshetty31@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I am a **Computer Science student at REVA University, Bengaluru**, who enjoys turning ideas into working software — from AI assistants and investigative tools to small utilities that save people time.
+
+- 🔭 &nbsp;Currently building **Zachary** — a desktop assistant with *file memory*
+- 🛡️ &nbsp;Built **KAVACH** & **Nishaan** — AI tools for police investigation
+- 🏆 &nbsp;Regular at **hackathons** (HackFest 2026 · team *lowcortisol*)
+- 🤝 &nbsp;Member of **FACE Club** — Forum of Aspiring Computer Engineers
+- 🌱 &nbsp;Exploring **LLM applications, data engineering & system design**
+- 📫 &nbsp;Reach me at **samrudhshetty31@gmail.com**
+
+</td>
+<td width="40%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="coding animation"/>
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css&theme=dark&perline=8" alt="languages"/>
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,fastapi,tailwind&theme=dark&perline=8" alt="frameworks"/>
+
+### Data, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=sqlite,postgres,vercel,git,github,githubactions,vscode,linux&theme=dark&perline=8" alt="tools"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [KAVACH](https://github.com/zynssam/KAVACH)
+**K**nowledge-based **A**I for **V**erification **A**nd **C**rime **H**andling — a conversational AI over a police crime database, with crime maps and hotspot heatmaps.
+
+`Python` `TypeScript` `React` · [**Live Demo ↗**](https://kavach-vert.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ [Nishaan](https://github.com/zynssam/Nishaan)
+AI suspect-sketch & crime-scene generator. A witness's spoken account (Hindi, Kannada or English) becomes a refinable sketch plus a 3D scene layout.
+
+`FastAPI` `React` `Vite` `Gemini` `Groq`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [Zachary](https://github.com/zynssam/Zachary)
+A cross-platform desktop assistant with **file memory** — indexes your files, understands what they're about, and finds them by voice or hotkey.
+
+`Python` · *In active development*
+
+</td>
+<td width="50%" valign="top">
+
+### 🐞 [BugBash](https://github.com/zynssam/bugbash)
+A self-hosted debugging-contest platform: join a round with a code, fix buggy C programs against a timer, climb the leaderboard.
+
+`Node.js` `JavaScript` `C`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [Attendance Sheet Maker](https://github.com/zynssam/Attendance-Sheet-Maker)
+Generates standardised multi-group `.xlsx` attendance workbooks for FACE Club events and hackathons.
+
+`Python` `HTML` · [**Live App ↗**](https://zynssam.github.io/Attendance-Sheet-Maker/)
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [Supply Chain Reliability](https://github.com/zynssam/Statistical-Modeling-of-Supply-Chain-Reliability)
+Simulates logistics data, analyses carrier on-time performance in SQLite, and visualises transit-time variance against SLA targets.
+
+`Python` `SQLite` `Power BI`
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zynssam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynssam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=zynssam&theme=tokyonight&hide_border=true" width="70%" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zynssam&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=zynssam&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%" alt="trophies"/>
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zynssam/zynssam/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zynssam/zynssam/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/zynssam/zynssam/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider"/>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/zynssam"><img src="https://img.shields.io/badge/GitHub-zynssam-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:samrudhshetty31@gmail.com"><img src="https://img.shields.io/badge/Gmail-samrudhshetty31-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Thanks+for+visiting!+%E2%9C%A8;Always+learning%2C+always+building." alt="footer typing"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
