@@ -1,15 +1,11 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samrudh%20Shetty&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%C2%B7%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="header"/>
+<img src="./assets/hero.svg" width="100%" alt="Samrudh Shetty — Backend Engineer · AI Engineer"/>
 
 <a href="https://github.com/zynssam">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=640&height=50&lines=Hi+there%2C+I'm+Samrudh+%F0%9F%91%8B;Backend+Engineer+%7C+AI+Engineer;Building+APIs%2C+LLM+systems+%26+data+pipelines;CS+Student+%40+REVA+University" alt="Typing SVG"/>
 </a>
-
-<br/>
-
-<img src="./assets/neural-banner.svg" width="100%" alt="Neural network banner — Backend & AI Engineer"/>
 
 <br/>
 
